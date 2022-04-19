@@ -1,3 +1,3 @@
 # AprendendoPython
-##Listas de Exercícios
+## Listas de Exercícios
 * Lista de exercício 1 - 30 Questões
